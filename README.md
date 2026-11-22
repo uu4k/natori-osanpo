@@ -32,4 +32,4 @@ npm run build:no-official  # 公式素材を含まない版をビルド
 | 2. 基本設計 | [docs/02_basic_design.md](docs/02_basic_design.md) | v0.1 承認済み |
 | 3. 詳細設計 | [docs/03_detailed_design.md](docs/03_detailed_design.md) | v0.1 承認済み |
 | 4. 実装 | [app/](app/) | 完了（v0.1.0） |
-| 5. テスト報告 | docs/05_test_report.md | 未着手 |
+| 5. テスト報告 | [docs/05_test_report.md](docs/05_test_report.md) | v0.1 実機確認待ち |
