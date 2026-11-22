@@ -12,7 +12,7 @@
 
 | 工程 | ドキュメント | 状態 |
 |---|---|---|
-| 1. 要件定義 | [docs/01_requirements.md](docs/01_requirements.md) | v0.2 レビュー待ち |
-| 2. 基本設計 | docs/02_basic_design.md | 未着手 |
+| 1. 要件定義 | [docs/01_requirements.md](docs/01_requirements.md) | v0.2 承認済み |
+| 2. 基本設計 | [docs/02_basic_design.md](docs/02_basic_design.md) | v0.1 承認済み |
 | 3. 詳細設計 | docs/03_detailed_design.md | 未着手 |
 | 5. テスト報告 | docs/05_test_report.md | 未着手 |
